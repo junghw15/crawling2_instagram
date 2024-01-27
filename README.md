@@ -1,5 +1,5 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# 인스타그램 크롤링
+> 인스타그램의 게시물, 댓글 크롤링 및 이미지 크롤링
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
